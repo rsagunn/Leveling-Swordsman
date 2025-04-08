@@ -1,5 +1,5 @@
 {
-  "$GMProject":"",
+  "$GMProject":"v1",
   "%Name":"leveling-Swordsman",
   "AudioGroups":[
     {"$GMAudioGroup":"","%Name":"audiogroup_default","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
@@ -28,11 +28,12 @@
     {"$GMFolder":"","%Name":"t_backrounds","folderPath":"folders/Tile Sets/t_backrounds.yy","name":"t_backrounds","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Timelines","folderPath":"folders/Timelines.yy","name":"Timelines","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
+  "ForcedPrefabProjectReferences":[],
   "IncludedFiles":[],
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.11.0.179",
+    "IDEVersion":"2024.13.0.190",
   },
   "name":"leveling-Swordsman",
   "resources":[
@@ -54,6 +55,7 @@
     {"id":{"name":"spr_towers","path":"sprites/spr_towers/spr_towers.yy",},},
     {"id":{"name":"spr_villageabandoned","path":"sprites/spr_villageabandoned/spr_villageabandoned.yy",},},
     {"id":{"name":"spr_water","path":"sprites/spr_water/spr_water.yy",},},
+    {"id":{"name":"spr_waterripple","path":"sprites/spr_waterripple/spr_waterripple.yy",},},
     {"id":{"name":"t_desert","path":"tilesets/t_desert/t_desert.yy",},},
     {"id":{"name":"t_dungeon","path":"tilesets/t_dungeon/t_dungeon.yy",},},
     {"id":{"name":"t_elements","path":"tilesets/t_elements/t_elements.yy",},},
