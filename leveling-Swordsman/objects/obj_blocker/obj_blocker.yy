@@ -1,12 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_reptile",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_blocker","path":"objects/obj_blocker/obj_blocker.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_blocker",
+  "eventList":[],
   "managed":true,
-  "name":"obj_reptile",
+  "name":"obj_blocker",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -29,10 +26,10 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":false,
+  "solid":true,
   "spriteId":{
-    "name":"spr_reptiledown",
-    "path":"sprites/spr_reptiledown/spr_reptiledown.yy",
+    "name":"spr_blocker",
+    "path":"sprites/spr_blocker/spr_blocker.yy",
   },
   "spriteMaskId":null,
   "visible":true,

@@ -28,8 +28,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"spr_monster",
-    "path":"folders/Sprites/spr_monster.yy",
+    "name":"spr_reptile",
+    "path":"folders/Sprites/spr_monster/spr_reptile.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

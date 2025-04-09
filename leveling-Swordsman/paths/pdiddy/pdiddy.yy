@@ -1,0 +1,15 @@
+{
+  "$GMPath":"",
+  "%Name":"pdiddy",
+  "closed":false,
+  "kind":1,
+  "name":"pdiddy",
+  "parent":{
+    "name":"Paths",
+    "path":"folders/Paths.yy",
+  },
+  "points":[],
+  "precision":4,
+  "resourceType":"GMPath",
+  "resourceVersion":"2.0",
+}
