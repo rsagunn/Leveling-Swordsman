@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"obj_reptile",
+  "%Name":"obj_skullz",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_blocker","path":"objects/obj_blocker/obj_blocker.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_blocker","path":"objects/obj_blocker/obj_blocker.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_monsterblocker","path":"objects/obj_monsterblocker/obj_monsterblocker.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_reptile",
+  "name":"obj_skullz",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -32,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_reptiledown",
-    "path":"sprites/spr_reptiledown/spr_reptiledown.yy",
+    "name":"spr_skull",
+    "path":"sprites/spr_skull/spr_skull.yy",
   },
   "spriteMaskId":null,
   "visible":true,
