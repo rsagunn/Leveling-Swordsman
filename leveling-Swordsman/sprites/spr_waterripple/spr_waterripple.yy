@@ -28,8 +28,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"spr_tiles",
-    "path":"folders/Sprites/spr_tiles.yy",
+    "name":"spr_ninjaadventuretiles",
+    "path":"folders/Sprites/spr_tiles/spr_ninjaadventuretiles.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
