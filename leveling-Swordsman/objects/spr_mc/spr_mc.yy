@@ -26,8 +26,8 @@
   "name":"spr_mc",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"obj_character",
+    "path":"folders/Objects/obj_character.yy",
   },
   "parentObjectId":null,
   "persistent":false,

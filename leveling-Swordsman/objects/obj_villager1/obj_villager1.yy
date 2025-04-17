@@ -6,8 +6,8 @@
   "name":"obj_villager1",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"obj_character",
+    "path":"folders/Objects/obj_character.yy",
   },
   "parentObjectId":null,
   "persistent":false,

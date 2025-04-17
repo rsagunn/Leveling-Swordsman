@@ -10,8 +10,8 @@
   "name":"obj_reptile",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"obj_monsters",
+    "path":"folders/Objects/obj_monsters.yy",
   },
   "parentObjectId":null,
   "persistent":false,

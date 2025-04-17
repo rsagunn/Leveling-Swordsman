@@ -1,0 +1,12 @@
+{
+  "$GMShader":"",
+  "%Name":"Shader2",
+  "name":"Shader2",
+  "parent":{
+    "name":"obj_character",
+    "path":"folders/Objects/obj_character.yy",
+  },
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
+}
