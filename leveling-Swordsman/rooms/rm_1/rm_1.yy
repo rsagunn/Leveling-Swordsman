@@ -56,7 +56,6 @@
     {"name":"inst_38F33EE","path":"rooms/rm_1/rm_1.yy",},
     {"name":"inst_9B8F2A1","path":"rooms/rm_1/rm_1.yy",},
     {"name":"inst_4A42C4E3","path":"rooms/rm_1/rm_1.yy",},
-    {"name":"inst_9693A45","path":"rooms/rm_1/rm_1.yy",},
     {"name":"inst_441407F9","path":"rooms/rm_1/rm_1.yy",},
     {"name":"inst_36F8004A","path":"rooms/rm_1/rm_1.yy",},
     {"name":"inst_24BAFD34","path":"rooms/rm_1/rm_1.yy",},
@@ -67,7 +66,6 @@
   "layers":[
     {"$GMRInstanceLayer":"","%Name":"mc","depth":0,"effectEnabled":true,"effectType":null,"gridX":16,"gridY":16,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v2","%Name":"inst_1614BF59","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_1614BF59","objectId":{"name":"obj_mc","path":"objects/obj_mc/obj_mc.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.375,"scaleY":0.375,"x":1018.0,"y":845.0,},
-        {"$GMRInstance":"v2","%Name":"inst_9693A45","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_9693A45","objectId":{"name":"obj_snake","path":"objects/obj_snake/obj_snake.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":286.0,"y":584.0,},
         {"$GMRInstance":"v2","%Name":"inst_430FC808","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_430FC808","objectId":{"name":"obj_bow","path":"objects/obj_bow/obj_bow.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1232.0,"y":480.0,},
       ],"layers":[],"name":"mc","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"monsters","depth":100,"effectEnabled":true,"effectType":null,"gridX":16,"gridY":16,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
