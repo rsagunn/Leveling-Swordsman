@@ -54,6 +54,7 @@
   "resources":[
     {"id":{"name":"obj_barrierlevel","path":"objects/obj_barrierlevel/obj_barrierlevel.yy",},},
     {"id":{"name":"obj_blocker","path":"objects/obj_blocker/obj_blocker.yy",},},
+    {"id":{"name":"obj_dialogue","path":"objects/obj_dialogue/obj_dialogue.yy",},},
     {"id":{"name":"obj_enterroom","path":"objects/obj_enterroom/obj_enterroom.yy",},},
     {"id":{"name":"obj_gamemanager","path":"objects/obj_gamemanager/obj_gamemanager.yy",},},
     {"id":{"name":"obj_monsterblocker","path":"objects/obj_monsterblocker/obj_monsterblocker.yy",},},
