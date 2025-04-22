@@ -21,4 +21,20 @@ if(lives <= 0){	/// @DnDAction : YoYo Games.Game.Restart_Game
 	/// @DnDVersion : 1
 	/// @DnDHash : 690B7232
 	/// @DnDParent : 4E83AFD5
-	game_restart();}
+	game_restart();
+
+	/// @DnDAction : YoYo Games.Common.Execute_Script
+	/// @DnDVersion : 1.1
+	/// @DnDHash : 48A03C80
+	/// @DnDParent : 4E83AFD5
+	/// @DnDArgument : "script" "calc_movement"
+	/// @DnDSaveInfo : "script" "calc_movement"
+	script_execute(calc_movement);
+
+	/// @DnDAction : YoYo Games.Common.Execute_Script
+	/// @DnDVersion : 1.1
+	/// @DnDHash : 0E8BA11E
+	/// @DnDParent : 4E83AFD5
+	/// @DnDArgument : "script" "anim"
+	/// @DnDSaveInfo : "script" "anim"
+	script_execute(anim);}
