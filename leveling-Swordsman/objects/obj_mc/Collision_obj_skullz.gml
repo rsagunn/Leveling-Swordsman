@@ -9,7 +9,7 @@ lives += -1;
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 3304EFEF
-/// @DnDArgument : "expr" "-1"
+/// @DnDArgument : "expr" "-0.5"
 /// @DnDArgument : "expr_relative" "1"
 /// @DnDArgument : "var" "hp"
-hp += -1;
+hp += -0.5;

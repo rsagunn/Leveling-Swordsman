@@ -1,34 +1,27 @@
 /// @DnDAction : YoYo Games.Common.Execute_Script
 /// @DnDVersion : 1.1
-/// @DnDHash : 5653E61E
-/// @DnDArgument : "script" "reset_variables"
-/// @DnDSaveInfo : "script" "reset_variables"
-script_execute(reset_variables);
+/// @DnDHash : 05A0CBF6
+/// @DnDArgument : "script" "reset_variable"
+/// @DnDSaveInfo : "script" "reset_variable"
+script_execute(reset_variable);
 
 /// @DnDAction : YoYo Games.Common.Execute_Script
 /// @DnDVersion : 1.1
-/// @DnDHash : 147CC317
+/// @DnDHash : 595DF824
 /// @DnDArgument : "script" "get_input"
 /// @DnDSaveInfo : "script" "get_input"
 script_execute(get_input);
 
 /// @DnDAction : YoYo Games.Common.Execute_Script
 /// @DnDVersion : 1.1
-/// @DnDHash : 48A03C80
+/// @DnDHash : 7B2BCF6B
 /// @DnDArgument : "script" "calc_movement"
 /// @DnDSaveInfo : "script" "calc_movement"
 script_execute(calc_movement);
 
 /// @DnDAction : YoYo Games.Common.Execute_Script
 /// @DnDVersion : 1.1
-/// @DnDHash : 00AB4F4E
-/// @DnDArgument : "script" "check_fire"
-/// @DnDSaveInfo : "script" "check_fire"
-script_execute(check_fire);
-
-/// @DnDAction : YoYo Games.Common.Execute_Script
-/// @DnDVersion : 1.1
-/// @DnDHash : 0E8BA11E
+/// @DnDHash : 208B7A44
 /// @DnDArgument : "script" "anim"
 /// @DnDSaveInfo : "script" "anim"
 script_execute(anim);

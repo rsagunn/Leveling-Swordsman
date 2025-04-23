@@ -9,15 +9,7 @@ lives += -1;
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 00DA65A0
-/// @DnDArgument : "expr" "-1"
+/// @DnDArgument : "expr" "-0.5"
 /// @DnDArgument : "expr_relative" "1"
 /// @DnDArgument : "var" "hp"
-hp += -1;
-
-/// @DnDAction : YoYo Games.Common.Variable
-/// @DnDVersion : 1
-/// @DnDHash : 2554BD7C
-/// @DnDArgument : "expr" "1"
-/// @DnDArgument : "expr_relative" "1"
-/// @DnDArgument : "var" "global.enemys"
-global.enemys += 1;
+hp += -0.5;
