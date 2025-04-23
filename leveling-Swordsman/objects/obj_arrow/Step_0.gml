@@ -1,9 +1,9 @@
 /// @DnDAction : YoYo Games.Common.Temp_Variable
 /// @DnDVersion : 1
 /// @DnDHash : 3797918A
-/// @DnDArgument : "var" "_dis"
-/// @DnDArgument : "value" "points_distance(xstart, ystart, x, y)"
-var _dis = points_distance(xstart, ystart, x, y);
+/// @DnDArgument : "var" "var_dis"
+/// @DnDArgument : "value" "point_distance(xstart, ystart, x, y)"
+var var_dis = point_distance(xstart, ystart, x, y);
 
 /// @DnDAction : YoYo Games.Common.If_Variable
 /// @DnDVersion : 1

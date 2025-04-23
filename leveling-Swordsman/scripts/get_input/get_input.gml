@@ -1,7 +1,7 @@
 /// @DnDAction : YoYo Games.Common.Function
 /// @DnDVersion : 1
 /// @DnDHash : 6B9EB33C
-/// @DnDComment : 
+/// @DnDComment : meow$(13_10)
 /// @DnDArgument : "funcName" "get_input"
 function get_input() {	/// @DnDAction : YoYo Games.Mouse & Keyboard.If_Key_Down
 	/// @DnDVersion : 1

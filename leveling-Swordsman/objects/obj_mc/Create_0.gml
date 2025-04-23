@@ -29,6 +29,20 @@ walk_spd = 1.5;
 aim_dir = 0;
 bow_dis = 11;
 
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 42BE4ACA
+/// @DnDInput : 3
+/// @DnDArgument : "expr" "30"
+/// @DnDArgument : "expr_1" "true"
+/// @DnDArgument : "expr_2" "8"
+/// @DnDArgument : "var" "fire_rate"
+/// @DnDArgument : "var_1" "can_fire"
+/// @DnDArgument : "var_2" "arrow_speed"
+fire_rate = 30;
+can_fire = true;
+arrow_speed = 8;
+
 /// @DnDAction : YoYo Games.Instances.Create_Instance
 /// @DnDVersion : 1
 /// @DnDHash : 404C3E6E
