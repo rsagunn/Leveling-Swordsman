@@ -7,8 +7,8 @@ function anim() {	/// @DnDAction : YoYo Games.Common.If_Expression
 	/// @DnDVersion : 1
 	/// @DnDHash : 696C662B
 	/// @DnDParent : 7FDBF004
-	/// @DnDArgument : "expr" "hmove !=0 or vmove !=0"
-	if(hmove !=0 or vmove !=0){	/// @DnDAction : YoYo Games.Instances.Set_Instance_Var
+	/// @DnDArgument : "expr" "(hmove !=0) or (vmove !=0)"
+	if((hmove !=0) or (vmove !=0)){	/// @DnDAction : YoYo Games.Instances.Set_Instance_Var
 		/// @DnDVersion : 1
 		/// @DnDHash : 6998F4FC
 		/// @DnDParent : 696C662B
