@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"obj_bow",
+  "%Name":"obj_phywall",
   "eventList":[],
   "managed":true,
-  "name":"obj_bow",
+  "name":"obj_phywall",
   "overriddenProperties":[],
   "parent":{
-    "name":"obj_mc",
-    "path":"folders/Entitys/Characters/obj_mc.yy",
+    "name":"obj_blocks",
+    "path":"folders/Objects/obj_blocks.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_bow",
-    "path":"sprites/spr_bow/spr_bow.yy",
+    "name":"spr_blocker",
+    "path":"sprites/spr_blocker/spr_blocker.yy",
   },
   "spriteMaskId":null,
   "visible":true,

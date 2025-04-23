@@ -21,6 +21,13 @@ script_execute(calc_movement);
 
 /// @DnDAction : YoYo Games.Common.Execute_Script
 /// @DnDVersion : 1.1
+/// @DnDHash : 48614BEE
+/// @DnDArgument : "script" "check_fire"
+/// @DnDSaveInfo : "script" "check_fire"
+script_execute(check_fire);
+
+/// @DnDAction : YoYo Games.Common.Execute_Script
+/// @DnDVersion : 1.1
 /// @DnDHash : 208B7A44
 /// @DnDArgument : "script" "anim"
 /// @DnDSaveInfo : "script" "anim"

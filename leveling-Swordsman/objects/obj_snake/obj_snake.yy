@@ -1,19 +1,18 @@
 {
   "$GMObject":"",
   "%Name":"obj_snake",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_blocker","path":"objects/obj_blocker/obj_blocker.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_monsterblocker","path":"objects/obj_monsterblocker/obj_monsterblocker.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "eventList":[],
   "managed":true,
   "name":"obj_snake",
   "overriddenProperties":[],
   "parent":{
-    "name":"obj_monsters",
-    "path":"folders/Objects/obj_monsters.yy",
+    "name":"Enemys",
+    "path":"folders/Entitys/Enemys.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_enemy_par",
+    "path":"objects/obj_enemy_par/obj_enemy_par.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
