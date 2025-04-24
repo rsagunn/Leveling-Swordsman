@@ -2,11 +2,11 @@
 /// @DnDVersion : 1
 /// @DnDHash : 6D3ED2D6
 /// @DnDInput : 2
-/// @DnDArgument : "expr" ""JADEN IS SUPER DUPER DUPER SUPER SUPER BAD AT R6ssssssawd  l""
+/// @DnDArgument : "expr" ""SUGTO NO HIT RADIANT""
 /// @DnDArgument : "expr_1" ""reilans world""
 /// @DnDArgument : "var" "text[0]"
 /// @DnDArgument : "var_1" "text[1]"
-text[0] = "JADEN IS SUPER DUPER DUPER SUPER SUPER BAD AT R6ssssssawd  l";
+text[0] = "SUGTO NO HIT RADIANT";
 text[1] = "reilans world";
 
 /// @DnDAction : YoYo Games.Common.Variable
