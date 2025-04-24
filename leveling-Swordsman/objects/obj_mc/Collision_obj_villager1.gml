@@ -3,4 +3,4 @@
 /// @DnDHash : 401AAA34
 /// @DnDArgument : "room" "Room3"
 /// @DnDSaveInfo : "room" "Room3"
-room_goto(Room3);
+room_goto(rm_deathscreen);

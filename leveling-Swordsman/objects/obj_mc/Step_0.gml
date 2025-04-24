@@ -52,8 +52,10 @@ if(hp <= 0){	/// @DnDAction : YoYo Games.Common.Variable
 /// @DnDHash : 4E83AFD5
 /// @DnDArgument : "var" "lives"
 /// @DnDArgument : "op" "3"
-if(lives <= 0){	/// @DnDAction : YoYo Games.Game.Restart_Game
+if(lives <= 0){	/// @DnDAction : YoYo Games.Rooms.Go_To_Room
 	/// @DnDVersion : 1
-	/// @DnDHash : 690B7232
+	/// @DnDHash : 43623D74
 	/// @DnDParent : 4E83AFD5
-	game_restart();}
+	/// @DnDArgument : "room" "rm_deathscreen"
+	/// @DnDSaveInfo : "room" "rm_deathscreen"
+	room_goto(rm_deathscreen);}

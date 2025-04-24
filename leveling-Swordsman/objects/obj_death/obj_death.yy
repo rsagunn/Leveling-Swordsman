@@ -1,12 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"obj_gamemanager",
+  "%Name":"obj_death",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":64,"eventType":8,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":13,"eventType":9,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_gamemanager",
+  "name":"obj_death",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -30,10 +30,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_gamemanager",
-    "path":"sprites/spr_gamemanager/spr_gamemanager.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }
