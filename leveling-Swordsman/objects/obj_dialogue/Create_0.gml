@@ -2,12 +2,12 @@
 /// @DnDVersion : 1
 /// @DnDHash : 6D3ED2D6
 /// @DnDInput : 2
-/// @DnDArgument : "expr" ""JADEN IS SUPER DUPER DUPER SUPER SUPER BAD AT R6l""
-/// @DnDArgument : "expr_1" ""hellooooooooooooo""
+/// @DnDArgument : "expr" ""JADEN IS SUPER DUPER DUPER SUPER SUPER BAD AT R6ssssssawd  l""
+/// @DnDArgument : "expr_1" ""reilans world""
 /// @DnDArgument : "var" "text[0]"
 /// @DnDArgument : "var_1" "text[1]"
-text[0] = "JADEN IS SUPER DUPER DUPER SUPER SUPER BAD AT R6l";
-text[1] = "hellooooooooooooo";
+text[0] = "JADEN IS SUPER DUPER DUPER SUPER SUPER BAD AT R6ssssssawd  l";
+text[1] = "reilans world";
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
@@ -33,11 +33,11 @@ text_y = 32;
 /// @DnDHash : 5C5BA7BE
 /// @DnDInput : 2
 /// @DnDArgument : "expr" "1"
-/// @DnDArgument : "expr_1" "0.25"
+/// @DnDArgument : "expr_1" "0.50"
 /// @DnDArgument : "var" "char_current"
 /// @DnDArgument : "var_1" "char_speed"
 char_current = 1;
-char_speed = 0.25;
+char_speed = 0.50;
 
 /// @DnDAction : YoYo Games.Common.Function_Call
 /// @DnDVersion : 1
