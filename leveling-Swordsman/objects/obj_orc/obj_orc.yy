@@ -1,20 +1,20 @@
 {
   "$GMObject":"",
-  "%Name":"obj_enemy_par",
+  "%Name":"obj_orc",
   "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":12,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_enemy_par",
+  "name":"obj_orc",
   "overriddenProperties":[],
   "parent":{
     "name":"Enemys",
     "path":"folders/Entitys/Enemys.yy",
   },
   "parentObjectId":{
-    "name":"obj_entity_par",
-    "path":"objects/obj_entity_par/obj_entity_par.yy",
+    "name":"obj_enemy_par",
+    "path":"objects/obj_enemy_par/obj_enemy_par.yy",
   },
   "persistent":false,
   "physicsAngularDamping":0.1,
@@ -33,7 +33,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_orcidle",
+    "path":"sprites/spr_orcidle/spr_orcidle.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

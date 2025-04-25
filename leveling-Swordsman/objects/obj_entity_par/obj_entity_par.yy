@@ -1,21 +1,18 @@
 {
   "$GMObject":"",
-  "%Name":"obj_enemy_par",
+  "%Name":"obj_entity_par",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":12,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_enemy_par",
+  "name":"obj_entity_par",
   "overriddenProperties":[],
   "parent":{
-    "name":"Enemys",
-    "path":"folders/Entitys/Enemys.yy",
+    "name":"Entitys",
+    "path":"folders/Entitys.yy",
   },
-  "parentObjectId":{
-    "name":"obj_entity_par",
-    "path":"objects/obj_entity_par/obj_entity_par.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,

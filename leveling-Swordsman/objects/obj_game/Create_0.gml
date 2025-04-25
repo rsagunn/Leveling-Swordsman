@@ -1,8 +1,13 @@
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
 /// @DnDHash : 25ACC521
-/// @DnDArgument : "code" ""
-
+/// @DnDArgument : "code" "enum states {$(13_10)		IDLE,$(13_10)		MOVE,$(13_10)		ATTACK,$(13_10)		DEAD,$(13_10)}"
+enum states {
+		IDLE,
+		MOVE,
+		ATTACK,
+		DEAD,
+}
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
