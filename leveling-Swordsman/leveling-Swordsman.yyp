@@ -73,7 +73,6 @@
     {"id":{"name":"rm_deathscreen","path":"rooms/rm_deathscreen/rm_deathscreen.yy",},},
     {"id":{"name":"rm_dialogue1","path":"rooms/rm_dialogue1/rm_dialogue1.yy",},},
     {"id":{"name":"rm_house","path":"rooms/rm_house/rm_house.yy",},},
-    {"id":{"name":"rm_mainland","path":"rooms/rm_mainland/rm_mainland.yy",},},
     {"id":{"name":"anim","path":"scripts/anim/anim.yy",},},
     {"id":{"name":"calc_movement","path":"scripts/calc_movement/calc_movement.yy",},},
     {"id":{"name":"check_facing","path":"scripts/check_facing/check_facing.yy",},},
@@ -153,7 +152,6 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"rm_mainland","path":"rooms/rm_mainland/rm_mainland.yy",},},
     {"roomId":{"name":"rm_1","path":"rooms/rm_1/rm_1.yy",},},
     {"roomId":{"name":"rm_house","path":"rooms/rm_house/rm_house.yy",},},
     {"roomId":{"name":"rm_deathscreen","path":"rooms/rm_deathscreen/rm_deathscreen.yy",},},
