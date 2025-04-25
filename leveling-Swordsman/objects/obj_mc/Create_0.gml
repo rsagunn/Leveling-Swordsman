@@ -5,13 +5,6 @@ event_inherited();
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
-/// @DnDHash : 00FA35EB
-/// @DnDArgument : "expr" "1"
-/// @DnDArgument : "var" "facing"
-facing = 1;
-
-/// @DnDAction : YoYo Games.Common.Variable
-/// @DnDVersion : 1
 /// @DnDHash : 266883C2
 /// @DnDArgument : "expr" "2"
 /// @DnDArgument : "var" "walk_spd"
