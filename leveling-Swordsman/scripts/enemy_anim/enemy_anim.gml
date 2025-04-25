@@ -59,14 +59,3 @@ function enemy_anim() {	/// @DnDAction : YoYo Games.Switch.Switch
 			/// @DnDArgument : "expr" "spr_orcdeath"
 			/// @DnDArgument : "var" "sprite_index"
 			sprite_index = spr_orcdeath;	break;}}
-
-/// @DnDAction : YoYo Games.Common.Variable
-/// @DnDVersion : 1
-/// @DnDHash : 32FAA7AF
-/// @DnDInput : 2
-/// @DnDArgument : "expr" "x"
-/// @DnDArgument : "expr_1" "y"
-/// @DnDArgument : "var" "xp"
-/// @DnDArgument : "var_1" "yp"
-xp = x;
-yp = y;
