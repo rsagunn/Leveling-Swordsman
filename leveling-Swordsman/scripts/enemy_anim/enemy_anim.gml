@@ -62,7 +62,7 @@ function enemy_anim() {	/// @DnDAction : YoYo Games.Switch.Switch
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
-/// @DnDHash : 32FAA7AF
+/// @DnDHash : 48A9061B
 /// @DnDInput : 2
 /// @DnDArgument : "expr" "x"
 /// @DnDArgument : "expr_1" "y"
