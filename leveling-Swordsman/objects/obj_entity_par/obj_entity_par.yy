@@ -30,7 +30,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"Reilan_Edited_photo_8__1_",
+    "path":"sprites/Reilan_Edited_photo_8__1_/Reilan_Edited_photo_8__1_.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

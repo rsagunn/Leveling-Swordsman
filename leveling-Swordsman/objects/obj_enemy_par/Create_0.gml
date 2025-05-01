@@ -5,6 +5,17 @@ event_inherited();
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
+/// @DnDHash : 76C527B1
+/// @DnDInput : 2
+/// @DnDArgument : "expr" "15"
+/// @DnDArgument : "expr_1" "hp_max"
+/// @DnDArgument : "var" "hp_max"
+/// @DnDArgument : "var_1" "hp"
+hp_max = 15;
+hp = hp_max;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
 /// @DnDHash : 21802E32
 /// @DnDInput : 3
 /// @DnDArgument : "expr" "false"
