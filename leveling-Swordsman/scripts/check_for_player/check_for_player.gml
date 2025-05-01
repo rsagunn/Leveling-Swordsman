@@ -73,8 +73,8 @@ function check_for_player() {	/// @DnDAction : YoYo Games.Common.Function_Call
 			/// @DnDArgument : "var" "_found_player"
 			/// @DnDArgument : "var_temp" "1"
 			/// @DnDArgument : "function" "mp_grid_path"
-			/// @DnDArgument : "arg" "global.mp_grid, path, x, y, obj_mc.x, obj_mc.y, type"
-			var _found_player = mp_grid_path(global.mp_grid, path, x, y, obj_mc.x, obj_mc.y, type);
+			/// @DnDArgument : "arg" "global.mp_grid, path, x, y, obj_mc.x, obj_mc.y, _type"
+			var _found_player = mp_grid_path(global.mp_grid, path, x, y, obj_mc.x, obj_mc.y, _type);
 		
 			/// @DnDAction : YoYo Games.Common.If_Variable
 			/// @DnDVersion : 1

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"check_if_stopped",
+  "isCompatibility":false,
+  "isDnD":true,
+  "name":"check_if_stopped",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -12,18 +12,9 @@ enum states {
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 3DE26E2B
+/// @DnDInput : 2
+/// @DnDArgument : "expr_1" "0.93"
 /// @DnDArgument : "var" "global.mp_grid"
+/// @DnDArgument : "var_1" "global.drag"
 global.mp_grid = 0;
-
-/// @DnDAction : YoYo Games.Common.Variable
-/// @DnDVersion : 1
-/// @DnDHash : 0BB3B776
-/// @DnDArgument : "expr" "3"
-/// @DnDArgument : "var" "lives"
-lives = 3;
-
-/// @DnDAction : YoYo Games.Common.Variable
-/// @DnDVersion : 1
-/// @DnDHash : 6CCDF4AE
-/// @DnDArgument : "var" "global.enemys"
-global.enemys = 0;
+global.drag = 0.93;

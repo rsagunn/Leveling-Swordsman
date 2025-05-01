@@ -14,7 +14,8 @@ if(other.hp > 0){	/// @DnDAction : YoYo Games.Common.Function_Call
 	/// @DnDHash : 03DC5382
 	/// @DnDParent : 24C5F302
 	/// @DnDArgument : "function" "damage_entity"
-	damage_entity();
+	/// @DnDArgument : "arg" "other, owner_id, damage, knockback_time"
+	damage_entity(other, owner_id, damage, knockback_time);
 
 	/// @DnDAction : YoYo Games.Common.Function_Call
 	/// @DnDVersion : 1

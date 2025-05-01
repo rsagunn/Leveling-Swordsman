@@ -22,3 +22,18 @@ facing = 1;
 /// @DnDArgument : "var_1" "yp"
 xp = x;
 yp = y;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 42D18510
+/// @DnDInput : 2
+/// @DnDArgument : "var" "hsp"
+/// @DnDArgument : "var_1" "vsp"
+hsp = 0;
+vsp = 0;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 0F90FF4B
+/// @DnDArgument : "var" "knockback_time"
+knockback_time = 0;

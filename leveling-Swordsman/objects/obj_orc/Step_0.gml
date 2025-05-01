@@ -7,7 +7,14 @@ var l30AD4357_0 = state;switch(l30AD4357_0){	/// @DnDAction : YoYo Games.Swit
 	/// @DnDHash : 59029E6F
 	/// @DnDParent : 30AD4357
 	/// @DnDArgument : "const" "states.IDLE"
-	case states.IDLE:	/// @DnDAction : YoYo Games.Common.Execute_Script
+	case states.IDLE:	/// @DnDAction : YoYo Games.Common.Function_Call
+		/// @DnDVersion : 1
+		/// @DnDHash : 54F433EB
+		/// @DnDParent : 59029E6F
+		/// @DnDArgument : "function" "calc_entity_movement"
+		calc_entity_movement();
+	
+		/// @DnDAction : YoYo Games.Common.Execute_Script
 		/// @DnDVersion : 1.1
 		/// @DnDHash : 4F2714E2
 		/// @DnDParent : 59029E6F
@@ -37,7 +44,14 @@ var l30AD4357_0 = state;switch(l30AD4357_0){	/// @DnDAction : YoYo Games.Swit
 	/// @DnDHash : 2151F144
 	/// @DnDParent : 30AD4357
 	/// @DnDArgument : "const" "states.MOVE"
-	case states.MOVE:	/// @DnDAction : YoYo Games.Common.Execute_Script
+	case states.MOVE:	/// @DnDAction : YoYo Games.Common.Function_Call
+		/// @DnDVersion : 1
+		/// @DnDHash : 08ABF2D0
+		/// @DnDParent : 2151F144
+		/// @DnDArgument : "function" "calc_entity_movement"
+		calc_entity_movement();
+	
+		/// @DnDAction : YoYo Games.Common.Execute_Script
 		/// @DnDVersion : 1.1
 		/// @DnDHash : 286946FC
 		/// @DnDParent : 2151F144
@@ -58,7 +72,14 @@ var l30AD4357_0 = state;switch(l30AD4357_0){	/// @DnDAction : YoYo Games.Swit
 	/// @DnDHash : 4717B5E3
 	/// @DnDParent : 30AD4357
 	/// @DnDArgument : "const" "states.ATTACK"
-	case states.ATTACK:	/// @DnDAction : YoYo Games.Common.Execute_Script
+	case states.ATTACK:	/// @DnDAction : YoYo Games.Common.Function_Call
+		/// @DnDVersion : 1
+		/// @DnDHash : 0298835F
+		/// @DnDParent : 4717B5E3
+		/// @DnDArgument : "function" "calc_entity_movement"
+		calc_entity_movement();
+	
+		/// @DnDAction : YoYo Games.Common.Execute_Script
 		/// @DnDVersion : 1.1
 		/// @DnDHash : 1F7375E0
 		/// @DnDParent : 4717B5E3
@@ -71,7 +92,14 @@ var l30AD4357_0 = state;switch(l30AD4357_0){	/// @DnDAction : YoYo Games.Swit
 	/// @DnDHash : 1D8E3EF4
 	/// @DnDParent : 30AD4357
 	/// @DnDArgument : "const" "states.DEAD"
-	case states.DEAD:	/// @DnDAction : YoYo Games.Common.Execute_Script
+	case states.DEAD:	/// @DnDAction : YoYo Games.Common.Function_Call
+		/// @DnDVersion : 1
+		/// @DnDHash : 25E5C499
+		/// @DnDParent : 1D8E3EF4
+		/// @DnDArgument : "function" "calc_entity_movement"
+		calc_entity_movement();
+	
+		/// @DnDAction : YoYo Games.Common.Execute_Script
 		/// @DnDVersion : 1.1
 		/// @DnDHash : 718BAE01
 		/// @DnDParent : 1D8E3EF4

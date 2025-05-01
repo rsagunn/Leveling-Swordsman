@@ -3,7 +3,14 @@
 /// @DnDHash : 0E43E86C
 /// @DnDComment : 
 /// @DnDArgument : "funcName" "check_facing"
-function check_facing() {	/// @DnDAction : YoYo Games.Common.Temp_Variable
+function check_facing() {	/// @DnDAction : YoYo Games.Common.If_Expression
+	/// @DnDVersion : 1
+	/// @DnDHash : 33A6541C
+	/// @DnDParent : 0E43E86C
+	/// @DnDArgument : "expr" "knockback_time <=0"
+	if(knockback_time <=0){}
+
+	/// @DnDAction : YoYo Games.Common.Temp_Variable
 	/// @DnDVersion : 1
 	/// @DnDHash : 19D066A2
 	/// @DnDParent : 0E43E86C
